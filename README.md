@@ -24,7 +24,7 @@ CD Workflow Process:
 <img width="1440" alt="creating release" src="https://user-images.githubusercontent.com/62492189/168416088-39e989a9-ab80-43bd-b661-c7556205cf7d.png">
 <img width="1440" alt="release" src="https://user-images.githubusercontent.com/62492189/168415725-85b80113-5a47-4812-ad4a-e0aad7d280cf.png">
 <img width="1440" alt="pushed_release" src="https://user-images.githubusercontent.com/62492189/168416150-a63c297a-4978-41ec-83d3-6ca330c91def.png">
-<img width="1440" alt="deploying" src="https://user-images.githubusercontent.com/62492189/168416151-269fe454-fe11-4bb9-a19d-830e9473ee19.png">
+<img width="1440" alt="deploying" src="https://user-images.githubusercontent.com/62492189/168416420-d595f20e-af78-43e3-a1da-108075c24cf7.png">
 <img width="1440" alt="deployed_run" src="https://user-images.githubusercontent.com/62492189/168415729-ea685dfd-f445-4418-a8ad-b66d78356294.png">
 <img width="1440" alt="workflow" src="https://user-images.githubusercontent.com/62492189/168415768-210f06cc-3637-4001-a8d3-b9a9011f9981.png">
 
